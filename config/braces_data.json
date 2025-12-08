@@ -1,0 +1,236 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-12-05",
+  "braces_list": ["Back", "Knees", "Elbow", "Shoulder", "Ankle", "Wrists", "Neck", "Hip"],
+  
+  "brace_info": {
+    "Back": {
+      "L0637": [
+        "LUMBAR ORTHOSIS, SAGITTAL-CORONAL CONTROL, WITH RIGID ANTERIOR AND POSTERIOR PANELS, POSTERIOR EXTENDS FROM SACROCOCCYGEAL JUNCTION TO T-9 VERTEBRA, PRODUCES INTRACAVITARY PRESSURE TO REDUCE LOAD ON THE INTERVERTEBRAL DISCS, INCLUDES STRAPS, CLOSURES, MAY INCLUDE PADDING, SHOULDER STRAPS, PENDULOUS ABDOMEN DESIGN, PREFABRICATED, INCLUDES FITTING AND ADJUSTMENT",
+        "Other intervertebral disc displacement, lumbar region (M51.26)",
+        "Spinal instability, lumbosacral region (M53.2X7)",
+        "Other intervertebral disc disorders, lumbosacral region (M51.87)",
+        "Low back pain, unspecified (M54.50)"
+      ],
+      "L0457": [
+        "lumbar-Sacral Orthosis, Sagittal-Coronal Control, With Rigid Anterior And Posterior Frame/Panel(S), Posterior Extends From Sacrococcygeal Junction To 7-9 Vertebra, Lateral Strength Provided By Rigid Lateral Frame/Panel(S), Produces Intracavitary Pressure To Reduce Load On Intervertebral Discs, Includes Straps, Closures, May Include Padding Shoulder Straps, Pendulous Abdomen Design, Prefabricated, Off-The-Shelf.",
+        "Other intervertebral disc degeneration, lumbar region with discogenic back pain only (M51.360)",
+        "Spinal stenosis, lumbosacral region (M48.07)",
+        "Other Intervertebral disc disorders, lumbosacral region (M51.87)",
+        "Low back pain, unspecified (M54.50)"
+      ],
+      "L0456": [
+        "Tlso, flexible, provides trunk support, thoracic region, rigid posterior panel and soft anterior apron, extends from the sacrococcygeal junction and terminates just inferior to the scapular spine, restricts gross trunk motion in the sagittal plane, produces intracavitary pressure to reduce load on the intervertebral disks, includes straps and closures, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise.",
+        "Other intervertebral disc degeneration, lumbar region with discogenic back pain only (M51.360)",
+        "Other intervertebral disc degeneration, lumbosacral region (M51.37)",
+        "Spinal Stenosis, lumbar region (M48.06)",
+        "Spinal stenosis, lumbosacral region (M48.07)",
+        "Other Intervertebral disc disorders, lumbosacral region (M51.87)",
+        "Low back pain (M54.5)"
+      ],
+      "L0651": [
+        "lumbar-Sacral Orthosis, Sagittal-Coronal Control, With Rigid Anterior And Posterior Frame/Panel(S), Posterior Extends From Sacrococcygeal Junction To 7-9 Vertebra, Lateral Strength Provided By Rigid Lateral Frame/Panel(S), Produces Intracavitary Pressure To Reduce Load On Intervertebral Discs, Includes Straps, Closures, May Include Padding Shoulder Straps, Pendulous Abdomen Design,  Prefabricated, Off-The-Shelf.",
+        "Other intervertebral disc degeneration, lumbar region with discogenic back pain only (M51.360)",
+        "Other intervertebral disc degeneration, lumbosacral region (M51.37)",
+        "Spinal stenosis, lumbosacral region (M48.07)",
+        "Other Intervertebral disc disorders, lumbosacral region (M51.87)",
+        "Low back pain, unspecified (M54.50)"
+      ],
+      "L0650": [
+        "lumbar-Sacral Orthosis, Sagittal-Coronal Control, With Rigid Anterior And Posterior Frame/Panel(S), Posterior Extends From Sacrococcygeal Junction To 7-9 Vertebra, Lateral Strength Provided By Rigid Lateral Frame/Panel(S), Produces Intracavitary Pressure To Reduce Load On Intervertebral Discs, Includes Straps, Closures, May Include Padding Shoulder Straps, Pendulous Abdomen Design,  Prefabricated, Off-The-Shelf.",
+        "Other intervertebral disc degeneration, lumbar region with discogenic back pain only (M51.360)",
+        "Other intervertebral disc degeneration, lumbosacral region (M51.37)",
+        "Spinal stenosis, lumbosacral region (M48.07)",
+        "Other Intervertebral disc disorders, lumbosacral region (M51.87)",
+        "Low back pain, unspecified (M54.50)"
+      ],
+      "L0648": [
+        "lumbar-Sacral Orthosis, Sagittal-Coronal Control, With Rigid Anterior And Posterior Frame/Panel(S), Posterior Extends From Sacrococcygeal Junction To 7-9 Vertebra, Lateral Strength Provided By Rigid Lateral Frame/Panel(S), Produces Intracavitary Pressure To Reduce Load On Intervertebral Discs, Includes Straps, Closures, May Include Padding Shoulder Straps, Pendulous Abdomen Design,  Prefabricated, Off-The-Shelf.",
+        "Other intervertebral disc degeneration, lumbar region with discogenic back pain only (M51.360)",
+        "Other intervertebral disc degeneration, lumbosacral region (M51.37)",
+        "Spinal stenosis, lumbosacral region (M48.07)",
+        "Other Intervertebral disc disorders, lumbosacral region (M51.87)",
+        "Low back pain, unspecified (M54.50)"
+      ]
+    },
+    "Knees": {
+      "L1843": [
+        "Knee orthosis, double upright, thigh and calf, with adjustable flexion and extension joint (unicentric or    polycentric), medial-lateral and rotation control, with or without varus/valgus adjustment, prefabricated item that has been trimmed, bent, molded, assembled, or otherwise customized to fit a specific patient by an individual with expertise; includes L2397 Suspension Sleeve.",
+        "Hypermobility Syndrome (M35.7) (check below that apply)",
+        "Grade < 2mm Tight with firm end-feel",
+        " Grade I 3-5mm Nominal increase in laxity compared to contralateral knee.",
+        "Grade II 6-9mm Slight increase in anterior translation compared to contralateral knee.",
+        "Grade III > 10mm Excessive anterior translation compared to contralateral knee.",
+        "Other spontaneous disruption of anterior cruciate ligament of unspecified knee. (M23.619) (check below)",
+        "Pivot Shift Normal Knee Grace I Grade II Grade III",
+        "Medial Plateau 3mm 5mm 10mm 15mm",
+        "Lateral Plateau 5mm 12mm 18mm 22mm",
+        "Chronic instability of knee, right knee (M23.51)",
+        "Chronic instability of knee, left knee (M23.52)",
+        "Other /Explain: "
+      ],
+      "L1852": [
+        "Adjustable Flexion & Extension Joint (Unicentric or Polycentric), Medial-Lateral & Rotation Control,+/- Varus/Valgus Adjustment, Prefabricated, Off the Shelf, includes L2397 Suspension Sleeve",
+        "Hypermobility Syndrome (M35.7) (check below that apply)",
+        "Grade < 2mm Tight with firm end-feel",
+        " Grade I 3-5mm Nominal increase in laxity compared to contralateral knee.",
+        "Grade II 6-9mm Slight increase in anterior translation compared to contralateral knee.",
+        "Grade III > 10mm Excessive anterior translation compared to contralateral knee.",
+        "Other spontaneous disruption of anterior cruciate ligament of unspecified knee. (M23.619) (check below)",
+        "Pivot Shift Normal Knee Grace I Grade II Grade III",
+        "Medial Plateau 3mm 5mm 10mm 15mm",
+        "Lateral Plateau 5mm 12mm 18mm 22mm",
+        "Chronic instability of knee, right knee (M23.51)",
+        "Chronic instability of knee, left knee (M23.52)",
+        "Other /Explain: "
+      ],
+      "L1833": [
+        " KNEE ORTHOSIS, ADJUSTABLE KNEE JOINTS (UNICENTRIC OR POLYCENTRIC), POSITIONAL ORTHOSIS, RIGID SUPPORT, PREFABRICATED, OFF-THE SHELF. includes L2397 Suspension Sleeve",
+        "Hypermobility Syndrome (M35.7) (check below that apply)",
+        "Grade < 2mm Tight with firm end-feel",
+        " Grade I 3-5mm Nominal increase in laxity compared to contralateral knee.",
+        "Grade II 6-9mm Slight increase in anterior translation compared to contralateral knee.",
+        "Grade III > 10mm Excessive anterior translation compared to contralateral knee.",
+        "Other spontaneous disruption of anterior cruciate ligament of unspecified knee. (M23.619) (check below)",
+        "Pivot Shift Normal Knee Grace I Grade II Grade III",
+        "Medial Plateau 3mm 5mm 10mm 15mm",
+        "Lateral Plateau 5mm 12mm 18mm 22mm",
+        "Chronic instability of knee, right knee (M23.51)",
+        "Chronic instability of knee, left knee (M23.52)",
+        "Other /Explain: "
+      ]
+    },
+    "Elbow": {
+      "L3761": [
+        "Elbow orthosis (eo), with adjustable position locking joint(s), prefabricated, off-the-shelf",
+        "Cubital Tunnel Syndrome (G56.2)",
+        "Rheumatoid bursitis, right elbow (M06.221)",
+        "Rheumatoid bursitis, left elbow (M06.222)",
+        "Pain in right elbow (M25.521)",
+        "Pain in left elbow (M25.522)",
+        "Unspecified sprain of right elbow (S53.401)",
+        "Unspecified sprain of left elbow (S53.402)",
+        "Disorder of ligament, right elbow (M24.221)",
+        "Disorder of ligament, left elbow (M24.222)"
+      ]
+    },
+    "Shoulder": {
+      "L3960": [
+        "Shoulder elbow wrist hand orthosis, abduction positioning, airplane design, prefabricated, includes fitting and adjustment",
+        "M75.31 Calcific tendinitis of left shoulder",
+        "M75.32 Calcific tendinitis of right shoulder",
+        "M75.41 Impingement syndrome of left shoulder",
+        "M75.42 Impingement syndrome of right shoulder",
+        "G56.11 Other lesions of median nerve, right upper limb",
+        "G56.12 Other lesions of median nerve, left upper limb",
+        "G56.31 Lesion of radial nerve, right upper limb",
+        "G56.32 Lesion of radial nerve, left upper limb",
+        "M25.511 Pain in right Shoulder",
+        "M25.512 Pain in Left Shoulder"
+      ],
+      "L3660": [
+        "SHOULDER ORTHOSIS, FIGURE OF EIGHT DESIGN ABDUCTION RESTRAINER, CANVAS AND WEBBING, PREFABRICATED, OFF-THE-SHELF.",
+        "M75.31 Calcific tendinitis of left shoulder",
+        "M75.32 Calcific tendinitis of right shoulder",
+        "M75.41 Impingement syndrome of left shoulder",
+        "M75.42 Impingement syndrome of right shoulder",
+        "G56.11 Other lesions of median nerve, right upper limb",
+        "G56.12 Other lesions of median nerve, left upper limb",
+        "G56.31 Lesion of radial nerve, right upper limb",
+        "G56.32 Lesion of radial nerve, left upper limb",
+        "M25.511 Pain in right Shoulder",
+        "M25.512 Pain in Left Shoulder"
+      ]
+    },
+    "Ankle": {
+      "L1971": [
+        "Ankle foot orthosis, plastic or other material with ankle joint, prefabricated, includes fitting and adjustment",
+        "Primary osteoarthritis, right ankle and foot (M19.071)",
+        "Primary osteoarthritis, left ankle and foot (M19.072)",
+        "Unspecified disorder of synovium and tendon, unspecified site (M67.90)",
+        "Other instability, right ankle and foot (M25.371)",
+        "Other instability, left ankle and foot (M25.372)",
+        "Displaced trimalleolar fracture of unspecified lower leg (S82.853A)",
+        "Spontaneous rupture of other tendons, unspecified ankle and foot (M66.879)",
+        "Pain in right ankle and joints of right foot (M25.571)",
+        "Pain in left ankle and joints of left foot (M25.572)",
+        "Flat foot [pes planus] (acquired), unspecified foot (M21.40)",
+        "Sprain of unspecified ligament of right ankle (S93.401)",
+        "Sprain of unspecified ligament of left ankle (S93.402)"
+      ],
+      "L1906": [
+        "Ankle/Foot Orthosis, Plastic or other material w/Ankle Joint, PREFABRICATED. INCLUDES FITTING & ADJUSTMENT.  OFF-THE-SHELF",
+        "Primary osteoarthritis, right ankle and foot (M19.071)",
+        "Primary osteoarthritis, left ankle and foot (M19.072)",
+        "Unspecified disorder of synovium and tendon, unspecified site (M67.90)",
+        "Other instability, right ankle and foot (M25.371)",
+        "Other instability, left ankle and foot (M25.372)",
+        "Displaced trimalleolar fracture of unspecified lower leg (S82.853A)",
+        "Spontaneous rupture of other tendons, unspecified ankle and foot (M66.879)",
+        "Pain in right ankle and joints of right foot (M25.571)",
+        "Pain in left ankle and joints of left foot (M25.572)",
+        "Flat foot [pes planus] (acquired), unspecified foot (M21.40)",
+        "Sprain of unspecified ligament of right ankle (S93.401)",
+        "Sprain of unspecified ligament of left ankle (S93.402)"
+      ]
+    },
+    "Wrists": {
+      "L3916": [
+        "Wrist hand orthosis, includes one or more nontorsion joint(s), elastic bands, turnbuckles, may include soft interface, straps, prefabricated, off-the-shelf",
+        "Primary Osteoarthritis, Right wrist (M19.031)",
+        "Primary Osteoarthritis, Left wrist (M19.032)",
+        "Primary Osteoarthritis, Right Hand (M19.41)",
+        "Primary Osteoarthritis, Left Hand (M19.42)",
+        "Carpal Tunnel Syndrome, Right Upper Limb (G56.01)",
+        "Pain In Right Wrist (M25.531)",
+        "Carpal Tunnel Syndrome, Left Upper Limb (G56.02)",
+        "Pain In Left Wrist (M25.532)"
+      ]
+    },
+    "Neck": {
+      "L0180": [
+        "Cervical, collar, semi-rigid, thermoplastic foam, two piece with thoracic extension, prefabricated, off-the-shelf.",
+        "Radiculopathy, Cervical Region (M54.12)",
+        "Radiculopathy, Cervical Thoracic Region (M54.13)",
+        "Radiculopathy, Occipito -Atlanto-Axial Region (M54.11)",
+        "Cervicalgia (M54.2)",
+        "Cervical disc disorder with myelopathy, High Cervical Region (M50.01)",
+        "Spinal stenosis, Cervical region (M48.02)",
+        "Other/Explain (Include Code) :"
+      ],
+      "L0174": [
+        "Cervical, collar, semi-rigid, thermoplastic foam, two piece with thoracic extension, prefabricated, off-the-shelf.",
+        "Radiculopathy, Cervical Region (M54.12)",
+        "Radiculopathy, Cervical Thoracic Region (M54.13)",
+        "Radiculopathy, Occipito -Atlanto-Axial Region (M54.11)",
+        "Cervicalgia (M54.2)",
+        "Cervical disc disorder with myelopathy, High Cervical Region (M50.01)",
+        "Spinal stenosis, Cervical region (M48.02)",
+        "Other/Explain (Include Code) :"
+      ]
+    },
+    "Hip": {
+      "L1653": [
+        "HIP ORTHOSIS, FLEXIBLE / SEMI-RIGID, PREFABRICATED, OFF-THE-SHELF, ADJUSTABLE, USED TO CONTROL HIP MOVEMENT AND PROVIDE STABILIZATION.",
+        "Hip Instability (M25.35)",
+        "Hip Pain (M25.551 / M25.552)",
+        "Weakness of Hip (R29.898)",
+        "Osteoarthritis of Hip (M16.11 / M16.12)",
+        "Chronic Hip Pain (M25.559)",
+        "Post-Operative Hip Support (Z98.890)",
+        "Other/Explain (Include Code) :"
+      ],
+      "L1690": [
+        "HIP ORTHOSIS, FLEXIBLE / SEMI-RIGID, PREFABRICATED, OFF-THE-SHELF, ADJUSTABLE, USED TO CONTROL HIP MOVEMENT AND PROVIDE STABILIZATION.",
+        "Hip Instability (M25.35)",
+        "Hip Pain (M25.551 / M25.552)",
+        "Weakness of Hip (R29.898)",
+        "Osteoarthritis of Hip (M16.11 / M16.12)",
+        "Chronic Hip Pain (M25.559)",
+        "Post-Operative Hip Support (Z98.890)",
+        "Other/Explain (Include Code) :"
+      ]
+    }
+  }
+}
+
