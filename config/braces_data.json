@@ -2,7 +2,16 @@
   "version": "1.1.13",
   "last_updated": "2025-12-09",
   "braces_list": ["Back", "Knees", "Elbow", "Shoulder", "Ankle", "Wrists", "Neck", "Hip"],
-  
+  "brace_metadata": {
+    "Back": {"bilateral": false, "label": "Back"},
+    "Knees": {"bilateral": true, "label": "Knee"},
+    "Elbow": {"bilateral": true, "label": "Elbow"},
+    "Shoulder": {"bilateral": true, "label": "Shoulder"},
+    "Ankle": {"bilateral": true, "label": "Ankle"},
+    "Wrists": {"bilateral": true, "label": "Wrists"},
+    "Neck": {"bilateral": false, "label": "Neck"},
+    "Hip": {"bilateral": true, "label": "Hip"}
+  },
   "brace_info": {
     "Back": {
       "L0637": [
