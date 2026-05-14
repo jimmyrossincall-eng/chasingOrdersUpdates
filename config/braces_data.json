@@ -1,6 +1,6 @@
 {
-  "version": "1.1.13",
-  "last_updated": "2025-12-09",
+  "version": "1.1.15",
+  "last_updated": "2026-05-14",
   "braces_list": ["Back", "Knees", "Elbow", "Shoulder", "Ankle", "Wrists", "Neck", "Hip"],
   "brace_metadata": {
     "Back": {"bilateral": false, "label": "Back"},
@@ -139,6 +139,19 @@
       ],
       "L3660": [
         "SHOULDER ORTHOSIS, FIGURE OF EIGHT DESIGN ABDUCTION RESTRAINER, CANVAS AND WEBBING, PREFABRICATED, OFF-THE-SHELF.",
+        "M75.31 Calcific tendinitis of left shoulder",
+        "M75.32 Calcific tendinitis of right shoulder",
+        "M75.41 Impingement syndrome of left shoulder",
+        "M75.42 Impingement syndrome of right shoulder",
+        "G56.11 Other lesions of median nerve, right upper limb",
+        "G56.12 Other lesions of median nerve, left upper limb",
+        "G56.31 Lesion of radial nerve, right upper limb",
+        "G56.32 Lesion of radial nerve, left upper limb",
+        "M25.511 Pain in right Shoulder",
+        "M25.512 Pain in Left Shoulder"
+      ],
+      "L3674": [
+        "SHOULDER ORTHOSIS, ABDUCTION POSITIONING (AIRPLANE DESIGN), THORACIC COMPONENT AND SLING/SWATH, PREFABRICATED, OFF-THE-SHELF.",
         "M75.31 Calcific tendinitis of left shoulder",
         "M75.32 Calcific tendinitis of right shoulder",
         "M75.41 Impingement syndrome of left shoulder",
