@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Letter of Medical Necessity – Neck Brace</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 20px; font-size: 14px; line-height: 1.3;">
+
+<h3 style="text-align: center; margin-bottom: 8px; text-decoration: underline;">Letter of Medical Necessity – Durable Medical Equipment (Cervical Orthosis / Neck Brace)</h3>
+
+<p style="margin: 4px 0;"><strong>[Physician Letterhead]</strong><br>
+{{ drName }}<br>
+{{ drAddress }}<br>
+Phone: {{ drPhone }} | Fax: {{ drFax }} | NPI: {{ drNpi }}<br>
+<strong>Date:</strong> {{ date }}</p>
+
+<p style="margin: 4px 0;"><strong>Re:</strong> Cervical Orthosis (Neck Brace) for {{ fname }} {{ lname }}</p>
+<p style="margin: 4px 0;"><strong>DOB:</strong> {{ ptDob }} | <strong>Medicare ID:</strong> {{ medID }}</p>
+
+<p style="margin: 6px 0;">I am writing to document the medical necessity for a cervical orthosis (HCPCS Code: {{ Selected_Brace }}) for my patient, {{ fname }} {{ lname }}, who is currently under my care for the treatment of cervical spine pathology.</p>
+
+<p style="margin: 6px 0;"><strong>Clinical Justification:</strong></p>
+<ul style="margin: 2px 0 6px 16px; padding-left: 10px;">
+  <li>Cervical pain and stiffness with radicular symptoms</li>
+  <li>Limited range of motion of the cervical spine</li>
+  <li>Muscle spasm and tenderness along the cervical paraspinal musculature</li>
+</ul>
+
+<p style="margin: 6px 0;"><strong>Physical Exam:</strong></p>
+<ul style="margin: 2px 0 6px 16px; padding-left: 10px;">
+  <li>Tenderness to palpation over cervical spine and paraspinal muscles</li>
+  <li>Reduced cervical flexion, extension, and rotation</li>
+</ul>
+
+<p style="margin: 6px 0;">Imaging supports cervical disc pathology, foraminal narrowing, and/or degenerative changes consistent with the patient's symptoms.</p>
+
+<p style="margin: 6px 0;"><strong>Medical Necessity:</strong></p>
+<ul style="margin: 2px 0 6px 16px; padding-left: 10px;">
+  <li>☑ Immobilize and support the cervical spine to reduce pain</li>
+  <li>☑ Limit harmful cervical motion during the healing process</li>
+  <li>☑ Reduce nerve root compression and radicular symptoms</li>
+  <li>☑ Prevent further cervical injury and promote recovery</li>
+</ul>
+
+<p style="margin: 6px 0;">Conservative management such as physical therapy, NSAIDs, and muscle relaxants have provided only partial relief.</p>
+
+<p style="margin: 6px 0;"><strong>Equipment Details:</strong><br>
+Item: Cervical Orthosis ({{ Selected_Brace }})<br>
+Duration of Need: 6 months<br>
+Face-to-Face Exam Date: {{ date }}</p>
+
+<p style="margin: 6px 0;">I certify that the patient has been evaluated face-to-face within 6 months of this order and that this equipment is essential to the treatment plan.</p>
+
+<p style="margin: 6px 0;">Please contact my office if additional information is needed.</p>
+
+<br>
+<p style="margin: 6px 0;"><strong>Sincerely,</strong><br>
+{{ drName }}<br>
+NPI: {{ drNpi }}<br>
+Signature: ___________________________<br>
+Date: ___________________________</p>
+
+</body>
+</html>
